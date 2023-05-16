@@ -1,0 +1,11 @@
+C:\Users\CSIE\source\repos\1060302\1060302\bin\Debug\1060302.exe.config
+C:\Users\CSIE\source\repos\1060302\1060302\bin\Debug\1060302.exe
+C:\Users\CSIE\source\repos\1060302\1060302\bin\Debug\1060302.pdb
+C:\Users\CSIE\source\repos\1060302\1060302\bin\Debug\1060302.xml
+C:\Users\CSIE\source\repos\1060302\1060302\obj\Debug\_1060302.Form1.resources
+C:\Users\CSIE\source\repos\1060302\1060302\obj\Debug\_1060302.Resources.resources
+C:\Users\CSIE\source\repos\1060302\1060302\obj\Debug\1060302.vbproj.GenerateResource.cache
+C:\Users\CSIE\source\repos\1060302\1060302\obj\Debug\1060302.vbproj.CoreCompileInputs.cache
+C:\Users\CSIE\source\repos\1060302\1060302\obj\Debug\1060302.exe
+C:\Users\CSIE\source\repos\1060302\1060302\obj\Debug\1060302.xml
+C:\Users\CSIE\source\repos\1060302\1060302\obj\Debug\1060302.pdb
