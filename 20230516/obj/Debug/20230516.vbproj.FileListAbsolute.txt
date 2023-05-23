@@ -1,0 +1,12 @@
+C:\Users\CSIE\source\repos\20230516\20230516\bin\Debug\20230516.exe.config
+C:\Users\CSIE\source\repos\20230516\20230516\bin\Debug\20230516.exe
+C:\Users\CSIE\source\repos\20230516\20230516\bin\Debug\20230516.pdb
+C:\Users\CSIE\source\repos\20230516\20230516\bin\Debug\20230516.xml
+C:\Users\CSIE\source\repos\20230516\20230516\obj\Debug\20230516.vbproj.AssemblyReference.cache
+C:\Users\CSIE\source\repos\20230516\20230516\obj\Debug\_20230516.Form1.resources
+C:\Users\CSIE\source\repos\20230516\20230516\obj\Debug\_20230516.Resources.resources
+C:\Users\CSIE\source\repos\20230516\20230516\obj\Debug\20230516.vbproj.GenerateResource.cache
+C:\Users\CSIE\source\repos\20230516\20230516\obj\Debug\20230516.vbproj.CoreCompileInputs.cache
+C:\Users\CSIE\source\repos\20230516\20230516\obj\Debug\20230516.exe
+C:\Users\CSIE\source\repos\20230516\20230516\obj\Debug\20230516.xml
+C:\Users\CSIE\source\repos\20230516\20230516\obj\Debug\20230516.pdb
